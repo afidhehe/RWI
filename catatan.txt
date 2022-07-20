@@ -1,1 +1,4 @@
-This is the first time I collaborate with coach Eko as my mentors of Python Developer
+This is the first time I collaborate with coach Eko as my mentors.
+I woul to  try Frappe Framework with Python.
+
+Thanks
