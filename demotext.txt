@@ -1,0 +1,7 @@
+# for trainning try, except, else and finally method on py.
+
+>>beginning of files
+
+some name 41 M
+other name 34 F
+no name 12 M

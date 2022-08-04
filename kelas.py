@@ -12,3 +12,4 @@ kunyuk = orang("marjo","kalianget")
 kunyuk2 = orang("gunawan","kertek")
 kunyuk2.jalan()
 kunyuk.jalan()
+
